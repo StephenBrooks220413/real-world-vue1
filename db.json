@@ -22,13 +22,13 @@
         },
         {
           "id": 5928301,
-          "category": "animal welfare",
-          "title": "Cat Adoption Day",
-          "description": "Find Your new Felin friend at this event.",
+          "category": "food bank",
+          "title": "Donate Food",
+          "description": "Donate food to people without it.",
           "location": "Lawton",
           "date": "January 28, 2021",
           "time": "12:00",
-          "organizer": "Kat Laydee"
+          "organizer": "John Lee"
         }
       ]
     }
