@@ -17,7 +17,7 @@
           "description": "Install depedencies such as axios with the vue cli & import it.",
           "location": "Lawton",
           "date": "January 28, 2021",
-          "time": "12:00",
+          "time": "1:00",
           "author": "Stephen Brooks"
         },
         {
@@ -27,7 +27,7 @@
           "description": "Using the MDB-ui-kit plugin form Vue, we can use the scss and js.",
           "location": "Lawton",
           "date": "January 28, 2021",
-          "time": "12:00",
+          "time": "2:00",
           "author": "Stephen Brooks"
         }
       ]
