@@ -2,13 +2,13 @@
       "events": [
         {
           "id": 5928101,
-          "category": "animal welfare",
-          "title": "Cat Adoption Day",
-          "description": "Find Your new Felin friend at this event.",
+          "category": "Vue Plugins",
+          "title": "Dynamic Pugins",
+          "description": "Find Your Vue plugin via the vue cli, or vue ui in terminal.",
           "location": "Lawton",
           "date": "January 28, 2021",
           "time": "12:00",
-          "organizer": "Kat Laydee"
+          "author": "Stephen Brooks"
         },
         {
           "id": 5928201,
