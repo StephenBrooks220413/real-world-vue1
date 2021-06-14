@@ -3,7 +3,7 @@
         {
           "id": 5928101,
           "category": "Vue Plugins",
-          "title": "Dynamic Pugins",
+          "title": "Vue Pugins",
           "description": "Find Your Vue plugin via the vue cli, or vue ui in terminal.",
           "location": "Lawton",
           "date": "January 28, 2021",
@@ -13,7 +13,7 @@
         {
           "id": 5928102,
           "category": "Vue Dependencies",
-          "title": "VueJS Dependencies",
+          "title": "Vue Builds",
           "description": "Install depedencies such as axios with the vue cli & import it.",
           "location": "Lawton",
           "date": "January 29, 2021",
@@ -23,7 +23,7 @@
         {
           "id": 5928103,
           "category": "MDB5 & Vue",
-          "title": "MDB5 Vue.js Styling",
+          "title": "MDB5 Layhout",
           "description": "Using the MDB-ui-kit plugin form Vue, we can use the scss and js.",
           "location": "Lawton",
           "date": "January 28, 2021",
